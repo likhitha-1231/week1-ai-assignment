@@ -1,0 +1,18 @@
+
+Hello, Likhitha! Welcome to Smart Student Assistant.
+
+Hello, Likhitha! Welcome to Smart Student Assistant.
+Study Tip: Study for 25 minutes and take a 5-minute break.
+Motivation Quote: Success is the sum of small efforts repeated every day.
+Date & Time: 30-05-2026 18:20:03
+Program Closed
+
+Session Started by Likhitha
+Study Tip: Use active recall while studying.
+Motivation Quote: Your future depends on what you do today.
+Date & Time: 30-05-2026 06:23:52 PM
+Generated Study Plan
+java
+c
+python
+Program Closed
